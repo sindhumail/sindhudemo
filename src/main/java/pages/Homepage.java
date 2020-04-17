@@ -6,4 +6,9 @@ public class Homepage {
 	{
 System.out.println("this is demo");
 	}
+	public void newmethod()
+	{
+System.out.println("this is demo");
+
+}
 }
