@@ -11,4 +11,10 @@ System.out.println("this is demo");
 System.out.println("this is demo");
 
 }
+	public void newmethod2()
+	{
+		
+System.out.println("this is demo");
+
+}
 }
