@@ -15,7 +15,7 @@ System.out.println("this is demo");
 	{
 		
 System.out.println("this is demo change");
-int a=23;
+int a=276;
 
 }
 }
